@@ -1,0 +1,7 @@
+CMakeLists.txt
+MakeFile
+cmake_install.cmake
+CMakeFiles
+CMakeCache.txt
+*.cbp
+FIdo
